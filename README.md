@@ -33,13 +33,11 @@
 
 ##### Week 3 - 1
 `Skip-gram` 방식의 `word2vec` 구현하기
+- `Skip-gram` 방식에 맞는 `CustomDataset` 구현
+- `Negative Sampling` 구현
+- `word2vec` 학습 및 `gensim`으로 결과 확인
 - `Corpus` : [tokenized ko-wikipedia](https://ratsgo.github.io/embedding/downloaddata.html) 
 - `stop-words` : https://www.ranks.nl/stopwords/korean
-
-
-`vocab` 생성 구현
-`Negative Sampling` 구현
-`gensim`으로 결과 확인
 
 </br>
 
