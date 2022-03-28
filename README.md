@@ -50,7 +50,11 @@
 `Transformers` 논문 클론 코딩
 참고 : https://nlp.seas.harvard.edu/2018/04/03/attention.html
 
+</br>
 
+##### Week 4
+`Tensorboard` 사용하기
+- `Graph`, `Metrics`, `Text` 시각화
 
 
 
